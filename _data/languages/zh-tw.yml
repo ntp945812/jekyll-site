@@ -2,13 +2,13 @@ title:
   archive: 歸檔
   category: 分類
   tag: 標籤
-  schedule: 日程表
+  schedule: 行事曆
   archives: 歸檔
   categories: 分類
   tags: 標籤
   about: 關於
 
-author: 博主
+author: 作者
 
 menu:
   home: 首頁
@@ -16,13 +16,13 @@ menu:
   categories: 分類
   tags: 標籤
   about: 關於
-  search: 檢索
-  schedule: 日程表
+  search: 搜索
+  schedule: 行事曆
   sitemap: 站點地圖
   commonweal: 公益404
 
 sidebar:
-  overview: 本站概覽
+  overview: 本站大綱
   toc: 文章目錄
 
 post:
@@ -49,7 +49,7 @@ page:
   tags: 標籤
 
 footer:
-  powered: "由 %s 強力驅動"
+  powered: "Power by %s ."
   theme: 主題
 
 counter:
@@ -83,7 +83,7 @@ cheers:
   nice: 好
   good: 很好
   great: 非常好
-  excellent: 非常屌
+  excellent: 好的不能再好
 
 keep_on: 繼續努力。
 
