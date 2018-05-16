@@ -49,7 +49,7 @@ page:
   tags: 標籤
 
 footer:
-  powered: "Power by %s ."
+  powered: "Power by %s "
   theme: 主題
 
 counter:
