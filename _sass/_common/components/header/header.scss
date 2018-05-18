@@ -1,6 +1,13 @@
-.header { background: $head-bg; }
+.header { background: $head-bg;
+          z-index: 10;}
 
 .header-inner { position: relative; }
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
 
 
 @import "headerband";

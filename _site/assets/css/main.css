@@ -224,7 +224,7 @@ html, body { height: 100%; }
 .header-inner { margin: 0 auto; padding: 100px 0 70px; width: 700px; }
 @media (min-width: 1600px) { .container .header-inner { width: 900px; } }
 
-.main { padding-bottom: 150px; }
+.main { padding-bottom: 150px; padding-top: 50px; }
 
 .main-inner { margin: 0 auto; width: 700px; }
 @media (min-width: 1600px) { .container .main-inner { width: 900px; } }
@@ -366,9 +366,11 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 @media (min-width: 768px) and (max-width: 991px) { .back-to-top { display: none; } }
 .back-to-top.back-to-top-on { bottom: 19px; }
 
-.header { background: transparent; }
+.header { background: transparent; z-index: 10; }
 
 .header-inner { position: relative; }
+
+.sticky { position: fixed; top: 0; width: 100%; }
 
 .headband { height: 3px; background: #222; }
 
@@ -558,7 +560,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .links-of-author { margin-top: 20px; }
 
 .links-of-author a { display: inline-block; vertical-align: middle; margin-right: 10px; margin-bottom: 10px; border-bottom-color: #555; font-size: 13px; }
-.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #ff009c; }
+.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #d1ff2b; }
 
 .links-of-blogroll { font-size: 13px; }
 
