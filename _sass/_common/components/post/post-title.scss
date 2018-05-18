@@ -11,7 +11,9 @@
 .posts-expand .post-title-link {
   display: inline-block;
   position: relative;
-  color: $black-light;
+  font-weight: bolder;
+  font-size: 36px;
+  color: $black-deep;
   border-bottom: none;
   line-height: 1.2;
   vertical-align: top;
