@@ -83,20 +83,5 @@
   {% include _third-party/scroll-cookie.html %}
   {% include _third-party/exturl.html %}
 
-  <script>
-  window.onscroll = function() {myFunction()};
-
-  var header = document.getElementById("header");
-  var sticky = 34;
-
-  function myFunction() {
-    if (window.pageYOffset >= 0) {
-      header.classList.add("sticky");
-    } else {
-      header.classList.remove("sticky");
-    }
-  }
-  </script>
-
 </body>
 </html>
