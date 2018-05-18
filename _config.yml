@@ -5,7 +5,7 @@
 
 # Site
 title: 學習日誌
-subtitle: 
+subtitle:
 description: 一些可能會用到，可能不會用到的東西。
 author: 睡翻的貓
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -601,7 +601,7 @@ pace: true
 #pace-theme-minimal
 # For example
 # pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-mac-osx
+pace_theme: pace-theme-minimal
 
 # Canvas-nest
 canvas_nest: false
