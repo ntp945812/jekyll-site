@@ -5,9 +5,9 @@
 
 # Site
 title: 學習日誌
-subtitle:
-description:
-author: Coach
+subtitle: 
+description: 一些可能會用到，可能不會用到的東西。
+author: 睡翻的貓
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-tw
 date_format: '%Y-%m-%d'
@@ -75,10 +75,10 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/cat.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "網頁 ,javascript ,html, 機器學習"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -584,7 +584,7 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
@@ -601,7 +601,7 @@ pace: false
 #pace-theme-minimal
 # For example
 # pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-minimal
+pace_theme: pace-theme-mac-osx
 
 # Canvas-nest
 canvas_nest: false

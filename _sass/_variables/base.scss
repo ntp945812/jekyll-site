@@ -223,12 +223,12 @@ $brand-color                    : white;
 $brand-hover-color              : white;
 $brand-bg                       : $black-deep;
 
-$logo-font-size                 : 20px;
+$logo-font-size                 : 36px;
 $logo-font-size                 : if(type-of(jekyll-config('font.logo.size')) == 'number', jekyll-config('font.logo.size') + px, $logo-font-size);
 
-$site-subtitle-color            : $grey-dark;
+$site-subtitle-color            : $whitesmoke;
 $subtitle-font-size             : 13px;
-$subtitle-color                 : $grey-dark;
+$subtitle-color                 : $whitesmoke;
 
 // Menu
 $menu-link-border               : transparent;
