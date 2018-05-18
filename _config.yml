@@ -7,7 +7,7 @@
 title: 學習日誌
 subtitle:
 description: 一些可能會用到，可能不會用到的東西。
-author: 睡翻的貓
+author: 睡著的貓
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-tw
 date_format: '%Y-%m-%d'
@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/cat.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "網頁 ,javascript ,html, 機器學習"
+keywords: "網頁 ,javascript ,html,css, 機器學習"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
