@@ -240,7 +240,7 @@ pre, code { font-family: consolas, Menlo, "PingFang SC", "Microsoft YaHei", mono
 
 code { padding: 2px 4px; word-wrap: break-word; color: #555; background: #eee; border-radius: 3px; font-size: 15px; }
 
-pre code { padding: 0; color: #cccccc; background: none; text-shadow: none; }
+pre code { padding: 10px; color: #cccccc; background: none; text-shadow: none; }
 
 .highlight { border-radius: 1px; }
 .highlight pre { border: none; margin: 0; padding: 10px 0; }
@@ -558,7 +558,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .links-of-author { margin-top: 20px; }
 
 .links-of-author a { display: inline-block; vertical-align: middle; margin-right: 10px; margin-bottom: 10px; border-bottom-color: #555; font-size: 13px; }
-.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #ff2600; }
+.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #ff009c; }
 
 .links-of-blogroll { font-size: 13px; }
 

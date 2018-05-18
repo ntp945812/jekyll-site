@@ -30,7 +30,7 @@ pre {
   @extend %code-block;
 
   code {
-    padding: 0;
+    padding: 10px;
     color: $highlight-foreground;
     background: none;
     text-shadow: none;
