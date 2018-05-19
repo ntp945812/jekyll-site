@@ -6,7 +6,7 @@
 // Placeholder: $code-block
 %code-block {
   overflow-wrap: break-word;
-  margin: 20px 0;
+  margin: 20px;
   padding: 0;
   font-size: $code-font-size;
   color: $highlight-foreground;
@@ -14,12 +14,13 @@
   line-height: $line-height-code-block;
 }
 
-pre, code { font-family: $code-font-family;
-            white-space: pre-wrap;}
+pre, code {
+        font-family: $code-font-family;
+        white-space: pre-wrap;
+      }
 
 code {
   padding: 2px 4px;
-  margin: 10px;
   word-wrap: break-word;
   color: $code-foreground;
   background: $code-background;
